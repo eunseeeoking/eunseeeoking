@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunseeeoking&show_icons=true&theme=apprentice)1
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunseeeoking&show_icons=true&theme=apprentice)
